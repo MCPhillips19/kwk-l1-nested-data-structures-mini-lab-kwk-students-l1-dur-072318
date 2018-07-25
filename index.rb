@@ -5,11 +5,11 @@ ingredients = [
     ["swiss", "munster", "cheddar"],
     ["mayo", "mustard", "tabasco"]
 ]
-order = ["rye", "tofu", "cheddar"]
 
-def sandwich_request(ingredients, order) 
-  puts order
-end
+
+# def sandwich_request(ingredients, order) 
+#   puts 
+# end
 
 
 # example city_info hash
