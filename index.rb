@@ -6,10 +6,10 @@ ingredients = [
     ["mayo", "mustard", "tabasco"]
 ]
 
-ingredients[0][2][2][1]
-# def sandwich_request(ingredients, order) 
-#   puts 
-# end
+
+ def sandwich_request(ingredients, order) 
+   puts 
+ end
 
 
 # example city_info hash
